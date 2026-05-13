@@ -1,0 +1,11 @@
+jupyter
+datasets
+pandas
+evaluate
+# torch  # Choose version with cuda
+transformers
+sentencepiece
+sacremoses
+sacrebleu
+protobuf
+accelerate>=1.1.0
